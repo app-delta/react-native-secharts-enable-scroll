@@ -7,7 +7,7 @@ const index = () => {
       <title>echarts</title>
       <meta http-equiv="content-type" content="text/html; charset=utf-8">
       <!-- webView ios适配 start -->
-      <meta name="viewport" content="initial-scale=1, maximum-scale=3, minimum-scale=1, user-scalable=no">
+      <meta name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
       <!-- webView ios适配 end -->
       <style type="text/css">
         html,
