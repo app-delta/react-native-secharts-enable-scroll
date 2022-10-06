@@ -48,7 +48,7 @@ class Echarts extends Component {
             mixedContentMode={'always'}
             renderLoading={this.props.renderLoading || (() => <View style={{backgroundColor: this.props.backgroundColor}} />)} // 设置空View，修复ioswebview闪白
             style={{backgroundColor: this.props.backgroundColor}} // 设置背景色透明，修复android闪白
-            scrollEnabled={true}
+            scrollEnabled={false}
             onMessage={this._handleMessage}
             javaScriptEnabled={true}
             injectedJavaScript={renderChart(this.props)}
