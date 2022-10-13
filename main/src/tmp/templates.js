@@ -17,6 +17,7 @@ const index = () => {
           margin: 0;
           padding: 0;
           background-color: rgba(0, 0, 0, 0);
+          touch-action: none;
         }
 
         #main {
