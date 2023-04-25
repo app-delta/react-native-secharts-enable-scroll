@@ -26,7 +26,7 @@ const index = () => {
         }
 
       </style>
-      <script type="text/javascript" src="https://cdn.bootcss.com/echarts/4.2.1/echarts.min.js"></script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/echarts/5.4.2/echarts.min.js"></script>
     </head>
 
     <body>
